@@ -45,4 +45,4 @@
 - full of website so it look like disy
 - Too much images each part confuced about which product I need to slect
 
-**This website about Amazone for sells products for customer when you see the amzone website (https://www.amazon.ca/?tag=admpdesktopca-20&ref=pd_sl_aFCC05F0F4CBDC991DC060634B) [Amazone]**
+**This website about Amazone for sells products for customer when you see the amzone website** (https://www.amazon.ca/?tag=admpdesktopca-20&ref=pd_sl_aFCC05F0F4CBDC991DC060634B) [Amazone];
