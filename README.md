@@ -16,13 +16,20 @@
 
 ## navigation Brakedown
 
-   [x]Global navigation
-    [X] Local navigation
-    [X] Utility navigation
-    [] Breadcrumb navigation
-    [X] Hamburger navigation (open menu)
-    [] Sticky header
-    [X] Hero footer
+   [X]Global navigation
+   
+   [X] Local navigation
+   
+   [X] Utility navigation
+    
+   [] Breadcrumb navigation
+    
+   [X] Hamburger navigation (open menu)
+    
+   [] Sticky header
+   
+   [X] Hero footer
+    
 
 ## Hero section Critique
 
