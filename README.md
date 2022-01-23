@@ -16,17 +16,17 @@
 
 ## navigation Brakedown
 
-  - [X]Global navigation
+  - [X] Global navigation
    
   - [X] Local navigation
    
   - [X] Utility navigation
     
-  - [] Breadcrumb navigation
+  - [ ] Breadcrumb navigation
     
   - [X] Hamburger navigation (open menu)
     
-  - [] Sticky header
+  - [ ] Sticky header
    
   - [X] Hero footer
     
